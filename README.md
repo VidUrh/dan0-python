@@ -1,1 +1,1 @@
-# dan0-python
+Python repository za dan 0 na FE-ros delavnici
